@@ -9,7 +9,7 @@
     "github_org": "AVAnnotate",
     "is_private": false,
     "title": "Annotating RadioLab Podcast with AVAnnotate",
-    "description": "PH Example",
+    "description": "This is a sample project to accompany our Programming Historian lesson proposal (titled \"Using AVAnnotate to Teach Multimodal Rhetoric in the First-Year Writing Classroom\"). In this sample AVAnnotate project, a student has annotated a chosen piece of audiovisual media (in this case, a Radiolab podcast titled \"Driverless Dilemma\" to track the rhetorical appeals (ethos, pathos, and logos) they learned in their first-year writing class.",
     "language": "en",
     "slug": "radiolab-podcast-project",
     "creator": "trentwintermeier",
@@ -160,6 +160,8 @@
       ]
     },
     "created_at": "2025-01-30T22:47:04.668Z",
-    "updated_at": "2025-01-30T22:49:08.890Z"
-  }
+    "updated_at": "2025-01-30T22:58:11.727Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
