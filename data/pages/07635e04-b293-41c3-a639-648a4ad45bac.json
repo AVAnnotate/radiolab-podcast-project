@@ -48,6 +48,46 @@
           "text": "In this clip from the \"Driverless Dilemma\" episode of RadioLab, hosts Jad and Robert introduce the trolley problem, which serves as a frame for the entire episode. Listeners can relate to the trolley problem and apply it to the new technology of driverless cars to understand the kind of moral decisions the vehicles will have to make on the road."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d3519385-5ae1-4aa8-bc9f-3f4f917cc5ba",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "file": "c083630b-9056-4821-9f34-bb7562ca5bb1",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Analytical Framework: The Rhetorical Situation and Appeals",
@@ -58,6 +98,6 @@
   "slug": "analytical-framework-the-rhetorical-situatio",
   "created_at": "2025-01-30T23:02:38.694Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-01-30T23:02:38.694Z",
+  "updated_at": "2025-01-30T23:07:41.512Z",
   "updated_by": "trentwintermeier"
 }
