@@ -4,10 +4,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "ASSIGNMENT DESCRIPTION:",
+          "text": "ASSIGNMENT DESCRIPTION",
           "bold": true
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -22,14 +23,6 @@
       "children": [
         {
           "text": "Throughout Unit 1, you'll track your research through annotated citations on various sources of your choosing. Each annotated citation should include:"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -66,6 +59,22 @@
         },
         {
           "text": " Abumrad, Jad, and Krulwich, Robert (hosts). \"Driverless Dilemma.” Radiolab, September 26, 2017. https://radiolab.org/podcast/driverless-dilemma"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -162,6 +171,6 @@
   "slug": "project-introduction-assignment-description",
   "created_at": "2025-01-30T23:00:20.932Z",
   "created_by": "trentwintermeier",
-  "updated_at": "2025-01-30T23:00:20.932Z",
+  "updated_at": "2025-01-30T23:14:22.486Z",
   "updated_by": "trentwintermeier"
 }
