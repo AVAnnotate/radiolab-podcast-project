@@ -1,0 +1,167 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "ASSIGNMENT DESCRIPTION:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Throughout Unit 1, you'll track your research through annotated citations on various sources of your choosing. Each annotated citation should include:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1.",
+          "bold": true
+        },
+        {
+          "text": " An MLA-style citation of your chosen source, and"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2.",
+          "bold": true
+        },
+        {
+          "text": " An analytical paragraph identifying communicator, message, and audience present in the source, as well as the source's use of rhetorical appeals (ethos, pathos, logos)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Citation:",
+          "bold": true
+        },
+        {
+          "text": " Abumrad, Jad, and Krulwich, Robert (hosts). \"Driverless Dilemma.” Radiolab, September 26, 2017. https://radiolab.org/podcast/driverless-dilemma"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Analysis: ",
+          "bold": true
+        },
+        {
+          "text": "The two main communicators of this podcast are Robert Krulwich and Jad Abumrad, who are Radiolab hosts. The hosts also invite on an expert, Josh Greene, who is a neuroscientist from Princeton whose research focuses on the human brain's response to moral quandries. The podcast hosts mention Greene's education and occupation in order to build credibility (ethos), which leads the audience to be more inclined to listen respect his findings on the subject. In addition to Greene's interview, the hosts use audio from various unnamed people who were surveyed as part of Greene's studies on morality. These communicators are presented as representatives of the \"general public,\" and are supposed to be relatable to the podcast's listeners (ethos/pathos)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This episode's message relates to the dilemma of autonomous/self-driving cars, especially considering the morality of implementing this new technology. Using the famous \"trolley problem\" as an anecdote to better understand how self-driving cars will make decisions about safety, the podcast's overall message is to provoke their listeners to think about the implications of self-driving cars for anyone on the road. They do this by invoking the emotional responses of the unnamed survey participants, who, as a group, represent a \"typical\" moral response to the trolley problem: \"Do you kill one man by pulling a lever or kill five men by doing nothing?\" The survey participants' responses are highly emotional and reactive (for example, \"No! Never!\"), provoking the listener to emotionally respond (pathos) to the dilemma, too."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I believe the main audience for this podcast episode is people interested in scientific and technological development. However, the podcast's hosts and even the experts they bring on use very approachable language and humor, so I know this episode is not targeting highly technical or scholarly audiences. The message is conveyed logically and includes various perspectives, which also means the target audience may be educated people who are likely to be swayed by logical, factual information (logos)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In the next page of this project, I annotated the podcast audio to include the transcript, speakers, rhetorical appeals (ethos, pathos, logos), and topics addressed by the communicators."
+        }
+      ]
+    }
+  ],
+  "title": "Project Introduction + Assignment Description",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "project-introduction-assignment-description",
+  "created_at": "2025-01-30T23:00:20.932Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-01-30T23:00:20.932Z",
+  "updated_by": "trentwintermeier"
+}
