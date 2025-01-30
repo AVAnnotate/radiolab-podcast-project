@@ -1,5 +1,2946 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "09e72daf-0fca-4707-aaec-bbc27e73d89d"
+    },
+    {
+      "start_time": 28,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Jad Abumrad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "4dea2af4-8809-4e9e-a1f2-2849681e10aa"
+    },
+    {
+      "start_time": 29,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Robert Krulwich. And you know what this is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "03fa992a-e50b-4994-b664-66f86d1ce1d7"
+    },
+    {
+      "start_time": 31,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Radiolab. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "dbc34170-f81c-4662-bd3d-14fde83e6c58"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "02d5e9fc-fec4-40cf-ae8b-ff5ab9ae9f89"
+    },
+    {
+      "start_time": 32,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so we're gonna play you a little bit of tape first just to set up the—what we're gonna do today. About a month ago, we were doing the thing about the fake news."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4fd05f58-4568-409a-b7a0-486da7ba48a3"
+    },
+    {
+      "start_time": 40,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we were very worried about a lot of fake news—a lot of people are. But in the middle of doing that reporting, we were talking with a fellow from Vanity Fair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5ce5f8e4-cfc6-46c0-b474-07c25dd1a936"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Nick Bilton. I'm a special correspondent for Vanity Fair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "f471a450-04ab-4681-b722-45d8c5775796"
+    },
+    {
+      "start_time": 49,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in the course of our conversation, Nick—and this had nothing to do with what we were talking about, by the way—Nick just got into a sort of a—well, he went into a kind of nervous reverie, I'd say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "69d42681-a3e1-4290-91f5-8c48e61d637d"
+    },
+    {
+      "start_time": 60,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, he was like, \"You know, you guys want to talk about fake news, but that's not actually what's eating at me.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0508bd02-3aa0-4389-9c31-0e26f6997a4e"
+    },
+    {
+      "start_time": 65,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The thing that I've been pretty obsessed with lately is actually not fake news, but it's automation and artificial intelligence and driverless cars. Because it's going to have a larger effect on society than any technology that I think has ever been created in the history of mankind. I know that's kind of a bold statement, but ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "1503b976-e46d-4d4a-ab54-2424a1afb30e"
+    },
+    {
+      "start_time": 84,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quite bold!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e2fd848f-b665-4471-9016-63eca492eefd"
+    },
+    {
+      "start_time": 85,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you've got to imagine that—you know, that there will be in the next 10 years, 20 to 50 million jobs that will just vanish to automation. You've got, you know, a million truckers that will lose their jobs, the—but it's not—we think about, like, automation and driverless cars, and we think about the fact that they are going to—the people that just drive the cars, like the taxi drivers and the truckers, are gonna lose their jobs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bec9cf94-0185-45f6-b800-3f4e555720c7"
+    },
+    {
+      "start_time": 113,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What we don't realize is that there are entire industries that are built around just cars. So for example, if you are not driving the car, why do you need insurance? There's no parking tickets because your driverless car knows where it can and cannot park and goes and finds a spot and moves and so on. If there are truckers that are no longer using rest stops because driverless cars don't have to stop and pee or take a nap, then all of those little rest stops all across America are affected. People aren't stopping to use the restrooms. They're not buying burgers. They're not staying in these hotels, and so on and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9e8b38ef-1df0-479b-9a81-a17bef058d89"
+    },
+    {
+      "start_time": 146,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then if you look at driverless cars to a next level, the whole concept of what a car is is going to change. So for example, right now a car has five seats and a wheel, but if I'm not driving, what's the point of having five seats and a wheel? You could imagine that you take different cars, so maybe when I was on my way here to this interview, I wanted to work out, so I called a driverless gym car. Or I have a meeting out in Santa Monica after this, and it's an hour, so I call a movie car to watch a movie on the way out there. Or office car, and I pick up someone else and we have a meeting on the way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f0bc7ca6-0a6f-412c-b98d-89c16363a3f6"
+    },
+    {
+      "start_time": 177,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And all of these things are gonna happen not in a vacuum, but simultaneously. This, you know—pizza delivery drivers are gonna be replaced by robots that will actually cook your pizza on the way to your house in a little box and then deliver it. And so kind of a little bit of a long-winded answer, but I truly do think that—that it's gonna have a massive, massive effect on society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f4c2b0d0-f9ba-48ed-a781-06fbfcff675c"
+    },
+    {
+      "start_time": 198,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Am I stressing you guys out? Are you—are you having heart palpitations over there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0ee6ba5e-add6-43df-9b8d-223ef8169dc4"
+    },
+    {
+      "start_time": 201,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not good. This is not good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "19bcb67e-0d92-4b0f-ac29-7d1bdce6675b"
+    },
+    {
+      "start_time": 203,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's a fairly compelling description of a—of a very dangerous future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b959990b-9e4a-4000-8a8c-fbaf9b3809c7"
+    },
+    {
+      "start_time": 209,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, but you know what? It's funny. One of the things that—I mean, we couldn't use that tape, initially at least."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7259c24f-cca4-4c4e-be08-77b0b3765732"
+    },
+    {
+      "start_time": 215,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0f5dc6ea-e7a2-4174-b12f-74ee5d128380"
+    },
+    {
+      "start_time": 216,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we kept thinking about it because it actually weirdly points us back to a story we did about a decade ago. The story of a moral problem that's about to get totally reimagined."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0edeb599-7845-4ddb-a204-96f111838085"
+    },
+    {
+      "start_time": 228,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It may be that what Nick is worried about and what we were worried about 10 years ago have now come dangerously close together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1bfd743c-abcf-4059-ba21-3d23b26808ab"
+    },
+    {
+      "start_time": 235,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what we thought we would do is we're—we're gonna play you the story as we did it then, sort of the full segment, and then we're gonna amend it on the back end. And by way of just disclaiming, this was at a moment in our development where there's just, like, way too many sound effects. It's just gratuitous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b73b5c25-e5d8-4a24-b467-5169205e5842"
+    },
+    {
+      "start_time": 251,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, you don't have to apologize for it. Those were great sound effects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c42d1d5b-5012-4119-993a-26c4d2dda340"
+    },
+    {
+      "start_time": 252,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I'm—I'm gonna apologize because there's just too much. Just too much. And also, like, we—we talk about the MRI machine like it's this, like, amazing thing, when it was—it's sorta commonplace now. Anyhow, doesn't matter. We're gonna play it for you and then talk about it on the back end. This is—we start with a description of something called \"the trolley problem.\" You ready?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0a61c86d-d5e3-4ace-9132-3c8f03d8d4bb"
+    },
+    {
+      "start_time": 275,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6afc28f4-a563-4078-8ec5-d8051ac6255c"
+    },
+    {
+      "start_time": 276,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. You're gonna hear some train tracks. Go there in your mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "78623955-ddd1-456e-ab6a-d0d4359d3976"
+    },
+    {
+      "start_time": 279,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[soft train sound effect]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "45fc1d1f-3765-487d-8ecb-b4d488a0d1ee"
+    },
+    {
+      "start_time": 281,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are five workers on the tracks, working. They've got their backs turned to the trolley, which is coming in the distance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "840afec8-0da1-4320-bfa5-a1a0a64cf770"
+    },
+    {
+      "start_time": 287,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean they're repairing the tracks?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9caceb83-23c6-4826-8026-34c3c964799c"
+    },
+    {
+      "start_time": 289,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They are repairing the tracks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b0bd4640-b41b-4733-bb8c-a16da2c2bc09"
+    },
+    {
+      "start_time": 291,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is unbeknownst to them, the trolley is approaching?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c4e32a84-7a9c-4bd9-8b7c-9e9da28d66d0"
+    },
+    {
+      "start_time": 294,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They don't see it. You can't shout to them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "65e901e2-6ca9-4f1b-8108-d575da412766"
+    },
+    {
+      "start_time": 296,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a0f32a28-44b8-4e4a-93c9-36d935fe9b93"
+    },
+    {
+      "start_time": 297,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if you do nothing, here's what will happen: five workers will die."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Topic"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "ce2392ed-d9db-4fe9-a6e4-e4a41ef5d0e0"
+    },
+    {
+      "start_time": 305,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh my God! [laughs] I—that was a horrible experience. I don't want that to happen to them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fc6a625d-7568-4395-bec5-52d5edaf595c"
+    },
+    {
+      "start_time": 307,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, you don't. But you have a choice. You can do A) nothing. Or B) it so happens, next to you is a lever. Pull the lever, and the trolley will jump onto some side tracks where there is only one person working."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "04defec4-a0d1-4c5f-9255-73d99f41df9d"
+    },
+    {
+      "start_time": 321,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So if the—so if the trolley goes on the second track, it will kill the one guy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "80ba0fc8-d7dc-4320-9632-2ecd27ed486c"
+    },
+    {
+      "start_time": 327,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so there's your choice. Do you kill one man by pulling a lever, or do you kill five men by doing nothing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5d1a4b33-dd17-4372-9007-eef37b55f367"
+    },
+    {
+      "start_time": 335,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'm gonna pull the lever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3db7e56d-c69a-4ac1-8ae0-6dac7e706d0b"
+    },
+    {
+      "start_time": 337,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Naturally. All right, here's part two. You're standing near some train tracks. Five guys are on the tracks, just as before. And there is the trolley coming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f00d6a9c-8f16-4a51-9202-c486ed6cacb9"
+    },
+    {
+      "start_time": 347,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hear the train coming in the—same five guys are working on the track?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0c2e4116-8c7c-4fa5-aa32-d4dcf34df190"
+    },
+    {
+      "start_time": 348,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Same five guys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f2d3fbd3-8770-4e58-90c4-b3e9022db014"
+    },
+    {
+      "start_time": 349,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Backs to the train, they can't see anything?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d38e94b5-aac5-498c-bd23-4609f423110f"
+    },
+    {
+      "start_time": 350,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, yeah, exactly. However, I'm gonna make a couple changes. Now you're standing on a footbridge that passes over the tracks. You're looking down onto the tracks. There's no lever anywhere to be seen, except next to you, there is a guy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "27a1e556-0628-49b4-ab46-df8bafb9ca72"
+    },
+    {
+      "start_time": 362,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you mean, \"there's a guy?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "aed81fc8-7106-487a-8599-e477e1fe8524"
+    },
+    {
+      "start_time": 364,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A large guy, large individual standing next to you on the bridge, looking down with you over the tracks. And you realize, \"Wait, I can save those five workers if I push this man, give him a little tap.\" He'll land on the tracks and stop the ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "d06d6a05-88ca-4454-85d1-80562ce89ed0"
+    },
+    {
+      "start_time": 381,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he stops the train."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "01c38089-88cb-4cc5-af3b-d8213614b149"
+    },
+    {
+      "start_time": 381,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs] Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "07dc1e94-e03d-4642-8a23-2c0cec2499c1"
+    },
+    {
+      "start_time": 383,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah, I'm not gonna do that. I'm not gonna do that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5bdb9bcd-e516-415f-8d1b-ed40668a922d"
+    },
+    {
+      "start_time": 385,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But surely you realize that the math is the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "385a2b6b-56df-4c14-877d-5a4338d1c3e2"
+    },
+    {
+      "start_time": 388,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mean, I'll save four people this way?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0d6e6e38-002c-4d07-aa46-d36009e8ffe7"
+    },
+    {
+      "start_time": 389,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bd4bb413-5376-43d3-af96-569e8c0bdbf2"
+    },
+    {
+      "start_time": 390,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but I'm—this time I'm pushing the guy. Are you insane? No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7609b92e-6b33-4169-80b4-1e2afa56ace3"
+    },
+    {
+      "start_time": 393,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, here's the thing. If you ask people these questions—and we did—starting with the first. \"Is it okay to kill one man to save five using a lever?\" nine out of ten people will say ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "93a1a5fa-c2bf-42d6-ad21-5775a9a9c8af"
+    },
+    {
+      "start_time": 401,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[5 people individually 'yes']"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "327686f6-d841-4deb-b806-89bfbea44648"
+    },
+    {
+      "start_time": 405,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But if you ask them, \"Is it okay to kill one man to save five by pushing the guy?\" nine out of ten people will say ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "24b3a310-0d58-4b60-98fd-bc0ad5870d20"
+    },
+    {
+      "start_time": 411,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[5 people individually say 'no']"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "233e133b-d3d5-414e-ad0b-0d62c7cd0804"
+    },
+    {
+      "start_time": 415,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is practically universal. And the thing is if you ask people, \"Why is it okay to murder\"—because that's what it is—\"Murder a man with a lever and not okay to do it with your hands?\" People don't really know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "799fdc2c-7f7e-4bde-8a43-3c358054be84"
+    },
+    {
+      "start_time": 427,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pulling the lever to save the five—I don't know, that feels better than pushing the one to save the five. But I don't really know why, so that's a good—there's a good moral quandary for you. [laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2e871c3f-a601-4a82-b870-02e539b46254"
+    },
+    {
+      "start_time": 445,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if having a moral sense is a unique and special human quality then maybe we—us two humans anyway, you and me ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "2542feb2-4335-4afb-90f8-f5d70061741c"
+    },
+    {
+      "start_time": 454,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8a96e54f-38f3-4102-a691-aa5a65b17723"
+    },
+    {
+      "start_time": 454,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... should at least inquire as to why this happens. And I happen to have met somebody who has a hunch. He's a young guy at Princeton University. Wild curly hair, bit of mischief in his eye. His name is Josh Greene. And he spent the last few years trying to figure out where this inconsistency comes from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c3d1198c-64c0-4a36-b314-7804aefa74fe"
+    },
+    {
+      "start_time": 475,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do people make this judgment? Forget whether or not these judgments are right or wrong, just what's going on in the brain that makes people distinguish so naturally and intuitively between these two cases, which from an actuarial point of view, are very, very, very similar if not identical?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "c9590706-1e1a-4f3f-a30f-02ce2858120e"
+    },
+    {
+      "start_time": 492,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Josh is, by the way, a philosopher and a neuroscientist, so this gives him special powers. He doesn't sort of sit back in a chair, smoke a pipe and think, \"Now why do you have these differences?\" He says, \"No, I would like to look inside people's heads, because in our heads we may find clues as to where these feelings of revulsion or acceptance come from.\" In our brains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f724648e-31e4-4103-8c8b-10b2ad3a6b51"
+    },
+    {
+      "start_time": 515,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we're here in the control room. Where you basically just see ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "489d9a15-bb12-4d17-aa66-81553501d84c"
+    },
+    {
+      "start_time": 519,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it just so happens that in the basement of Princeton, there was this, well ... A big circular thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e9149586-3d7f-48c8-85ae-b47db24c0fe6"
+    },
+    {
+      "start_time": 526,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it looks kind of like an airplane engine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a3307879-03b2-457a-aed2-83bd4417a7a7"
+    },
+    {
+      "start_time": 529,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "180,000-pound brain scanner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2e0d829e-1bbb-4820-8c5a-a3eea473caf6"
+    },
+    {
+      "start_time": 534,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll tell you a funny story. You can't have any metal in there because of the magnet, so we have this long list of questions that we ask people to make sure they can go in. \"Do you have a pacemaker? Have you ever worked with metal?\" Blah, blah, blah, blah, blah ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "be3fa0ba-c86f-4c21-a5e2-e81a63122c17"
+    },
+    {
+      "start_time": 543,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, because you could have little flecks of metal in your eyes that you would never even know are there from having done metalworking. And one of the questions is whether or not you wear a wig or anything like that, because they often have metal wires in with that. And there's this very nice woman who does brain research here who's Italian, and she's asking her subjects over the phone all these screening questions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "338057b8-3342-4302-9025-01d52d636c03"
+    },
+    {
+      "start_time": 563,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I have this person over to dinner. She says, \"Yeah, you know, I ended up doing this study, but it asks you the weirdest questions. This woman's like, 'Do you have a hairpiece?' And—and I'm like, 'What does it have to do if I have herpes or not?'\" [laughs] Anyway, and she said—you know, she asked, \"Do you have a hairpiece?\" But she—so now she asks people if you wear a wig or whatever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "aa224990-6579-4aef-ad19-53f37fcec09c"
+    },
+    {
+      "start_time": 583,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyhow, what Josh does is he invites people into this room, has them lie down on what is essentially a cot on rollers, and he rolls them into the machine. Their heads are braced, so they're sort of stuck in there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0b3f1c03-c872-4786-bb1b-964bca3429e8"
+    },
+    {
+      "start_time": 595,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you ever done this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "15ccb06f-4d65-4a56-930f-d1401d0c7e2d"
+    },
+    {
+      "start_time": 597,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah. Yep, several times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "815dd8c2-1c7b-40db-a6ad-3509506323f1"
+    },
+    {
+      "start_time": 598,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then he tells them stories. He tells them the same two, you know, trolley tales that you told before."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f6969587-9d27-4390-b9df-0ba161ef8684"
+    },
+    {
+      "start_time": 603,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "780e8d76-47b4-4651-9818-6a202beeff23"
+    },
+    {
+      "start_time": 603,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then at the very instant that they're deciding whether I should push the lever or whether I should push the man, at that instant, the scanner snaps pictures of their brains. And what he found in those pictures was frankly, a little startling. He showed us some."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c7851b5e-4fdf-4c68-b2cb-3e586742fcf9"
+    },
+    {
+      "start_time": 617,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, I'll show you some—some stuff. Okay, let me think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5ae7badc-7509-4762-b82f-53c8b3d04f9a"
+    },
+    {
+      "start_time": 624,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The picture that I'm looking at is a sort of a—it's a brain looked at, I guess, from the top down?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "81b45d6a-93f0-426c-b996-e19cb351afa0"
+    },
+    {
+      "start_time": 629,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep, it's top-down. It's sort of sliced, you know, like—like a deli slicer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "51fadbf8-3aef-42b2-8573-6635083a9c03"
+    },
+    {
+      "start_time": 633,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the first slide that he showed me was a human brain being asked the question, \"Would you pull the lever?\" And the answer in most cases was, \"Yes.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e96c14b8-3926-4a97-ac1a-7aac7f8b81ab"
+    },
+    {
+      "start_time": 641,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'd pull the lever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Man"
+        }
+      ],
+      "uuid": "3f55f51a-2433-42a1-8eb8-3e1add15f3b9"
+    },
+    {
+      "start_time": 643,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the brain's saying, \"Yes,\" you'd see little kind of peanut-shaped spots of yellow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b49b4dab-bb71-4a44-a775-696f22782c5c"
+    },
+    {
+      "start_time": 646,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This little guy right here and these two guys right there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a2d916d2-0172-410b-8b62-ddd1fb8ac7b4"
+    },
+    {
+      "start_time": 650,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The brain was being active in these places. And oddly enough whenever people said yes ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "aa87011b-f369-4d21-9bc3-1eace424e4b0"
+    },
+    {
+      "start_time": 655,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Woman"
+        }
+      ],
+      "uuid": "ee6e42e3-dad8-4f85-b650-9640f97252a1"
+    },
+    {
+      "start_time": 656,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... to the lever question, the very same pattern lit up. Then he showed me another slide. This is a slide of a brain saying, \"No.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2caef9ad-b629-496f-9ab6-b19ac288cf96"
+    },
+    {
+      "start_time": 664,
+      "end_time": 664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I would not push the man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Woman"
+        }
+      ],
+      "uuid": "d8081eb2-da79-454d-9f8f-10fda68df3a6"
+    },
+    {
+      "start_time": 664,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I will not push the large man.\" And in this picture ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "90eff356-a781-4cc6-841f-bbb9edd59d98"
+    },
+    {
+      "start_time": 669,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This one we're looking at here, this ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a305f426-6863-4a3e-8586-658cbde7a8eb"
+    },
+    {
+      "start_time": 671,
+      "end_time": 672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... it was a totally different constellation of regions that lit up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b11a9e08-01f4-4d24-95ee-6026b907aaee"
+    },
+    {
+      "start_time": 673,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the \"No, no, no\" crowd."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bffd1a13-9039-4c2d-8aa7-a7572c0bc01f"
+    },
+    {
+      "start_time": 675,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think this is part of the \"No, no, no\" crowd."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "61450776-e635-42d9-acf1-5a6f4a9fa6fa"
+    },
+    {
+      "start_time": 677,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when people answer yes to the lever question, there are—there are places in their brain which glow?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "62e605b2-ebe8-4dd1-a2f8-3e9577b730c4"
+    },
+    {
+      "start_time": 682,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. But when they answer, \"No, I will not push the man,\" then you get a completely different part of the brain lighting up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "45c2df3b-5a91-4bbc-b432-028cd2dbb971"
+    },
+    {
+      "start_time": 687,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even though the questions are basically the same?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "10951aa7-4bc1-4329-9c23-3513ea5cb58c"
+    },
+    {
+      "start_time": 691,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what does that mean? What does Josh make of this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0bba3115-9797-45aa-993c-87945dfce8a6"
+    },
+    {
+      "start_time": 694,
+      "end_time": 696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well he has a theory about this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "50f8398e-e349-44c7-8ccd-51f4c31e2eee"
+    },
+    {
+      "start_time": 696,
+      "end_time": 699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A theory—not proven, but I think—this is what I think the evidence suggests."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3a4c68ef-2dfe-41ad-bf96-1aa8edcfe737"
+    },
+    {
+      "start_time": 699,
+      "end_time": 714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He suggests that the human brain doesn't hum along like one big, unified system. Instead, he says, maybe in your brain, every brain, you'll find little warring tribes, little subgroups. One that is sort of doing the logical sort of accounting kind of thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8728c3f5-0aaa-4db9-91c5-4b3e0e09992d"
+    },
+    {
+      "start_time": 715,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've got one part of the brain that says, \"Huh, five lives versus one life? Wouldn't it be better to save five versus one?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bfac16e5-424d-4065-9a9b-289c1594b02c"
+    },
+    {
+      "start_time": 722,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's the part that would glow when you answer, \"Yes, I'd pull the lever.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b17a7035-ff7d-40d8-9bea-da5d896ab9f0"
+    },
+    {
+      "start_time": 726,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'd pull the lever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        }
+      ],
+      "uuid": "fd3054b4-2101-4da6-bb30-11d802e4ca75"
+    },
+    {
+      "start_time": 727,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there's this other part of the brain which really, really doesn't like personally killing another human being, and gets very upset at the fat man case, and shouts, in effect ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "61e92bdc-0238-4edd-88b6-93eabeabcb3d"
+    },
+    {
+      "start_time": 736,
+      "end_time": 737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[3 people individually say 'no']"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "82a2d186-ba42-4dc5-ae0b-a1ace85736f9"
+    },
+    {
+      "start_time": 737,
+      "end_time": 742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It understands it on that level, and says ... No. Bad! Don't do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "31c0c1a4-23b0-4eec-9484-754b1a8d4d7d"
+    },
+    {
+      "start_time": 742,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't think I could push..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6dd8b5a9-e655-42fe-8c6c-f54c557f0919"
+    },
+    {
+      "start_time": 743,
+      "end_time": 743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 2",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cb96836e-c05b-46b0-9386-b1fd7c19aa7e"
+    },
+    {
+      "start_time": 744,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Never."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 3",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "32a43afa-47b2-499e-9270-62b69f357387"
+    },
+    {
+      "start_time": 747,
+      "end_time": 760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead of having sort of one system that just sort of churns out the answer and bing, we have multiple systems that give different answers, and they duke it out. And hopefully out of that competition comes morality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "59531bc3-287e-4bf6-a4d6-09eef0f5cf07"
+    }
+  ],
   "set": "Default",
   "event_id": "d3519385-5ae1-4aa8-bc9f-3f4f917cc5ba",
   "source_id": "c083630b-9056-4821-9f34-bb7562ca5bb1"
