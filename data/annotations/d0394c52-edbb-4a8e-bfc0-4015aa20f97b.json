@@ -1,5 +1,2656 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 6,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so that was the story we put together many, many, many years ago, about a decade ago. And at that point, the whole idea of thinking of morality as kind of purely a brain thing, it was relatively new. And certainly, the idea of philosophers working with MRI machines, it was super new. But now here we are, 10 years later, and some updates. First of all, Josh Greene ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "60854763-a704-4db4-8d93-ca071a649029"
+    },
+    {
+      "start_time": 27,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in the long, long stream of time, I assume now you have three giraffes, two bobcats, and children?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "99b27a0e-d4f1-469f-bfc9-537dcf57c079"
+    },
+    {
+      "start_time": 34,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's right. Yeah, so two kids, and we're close to adding a cat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c3ed4a39-8c16-4c6b-94b6-dd9dc840fbfc"
+    },
+    {
+      "start_time": 38,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We talked to him again. He has started a family. He's switched labs from Princeton to Harvard. But that whole time, that interim decade, he has still been thinking and working on the trolley problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "0ef31cb9-bd07-4839-b71d-140924b086c6"
+    },
+    {
+      "start_time": 50,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever write the story differently?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a70b155a-42bc-454d-a4fa-ed0cbd4a360d"
+    },
+    {
+      "start_time": 51,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely, so..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e9aef4aa-327b-4ae7-9d41-c5189465e342"
+    },
+    {
+      "start_time": 52,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For years, he's been trying out different permutations of the scenario on people. Like, \"Okay, instead of pushing the guy off the bridge with your hands, what if you did it, but not with your hands?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "acae7527-9118-48d7-aa02-fa2622aeb83a"
+    },
+    {
+      "start_time": 62,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in one version, we ask people about hitting a switch that opens a trapdoor on the footbridge and drops the person. In one version of that, the switch is right next to the person. In another version, the switch is far away. And in yet another version, you're right next to the person, and you don't push them off with your hands, but you push them with a pole."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "db20cce0-346f-4c82-abaa-f2e11e3fd0fc"
+    },
+    {
+      "start_time": 81,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ooh!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Robert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0fadf470-20d8-47ea-b476-96bfbd33e6c3"
+    },
+    {
+      "start_time": 81,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to cut to the chase, what Josh has found is that the basic results that we talked about ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b9e14367-2ea9-42a7-912b-f213f2123245"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's roughly held up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1e550f91-b1dc-4960-8600-f61a4ffcf45c"
+    },
+    {
+      "start_time": 89,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's still the case that people would like to save the most number of lives, but not if it means pushing somebody with their own hands—or with a pole, for that matter. Now here's something kind of interesting. He and others have found that there are two groups that are more willing to push the guy off the bridge: they are Buddhist monks and psychopaths."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ac13ee74-14fb-447a-8e98-3c5ce892662a"
+    },
+    {
+      "start_time": 111,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, some people just don't care very much about hurting other people. They don't have that kind of an emotional response."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "857c1b6c-6db0-4c02-91d8-cc3bb06a15be"
+    },
+    {
+      "start_time": 116,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would be the psychopaths, whereas the Buddhist monks presumably are really good at shushing their \"inner chimp,\" as he called it, and just saying to themselves ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "af87ca08-f366-46fb-ad8f-52cb97d2ab65"
+    },
+    {
+      "start_time": 125,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I'm aware that this is—that killing somebody is a terrible thing to do. And I feel that, but I recognize that this is done for a noble reason, and therefore, it's—it's okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "07cc0c1e-8cd4-4692-9664-c516efda9837"
+    },
+    {
+      "start_time": 134,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there's all kinds of interesting things you can say about the trolley problem as a thought experiment, but at the end of the day, it's just that. It's a thought experiment. What got us interested in revisiting it is that it seems like the thought experiment is about to get real."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "a472ca59-bce4-46e3-bec8-7ef8ba822188"
+    },
+    {
+      "start_time": 158,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's coming up right after the break."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "13b635bb-340e-47e2-8d38-e87dec934e5c"
+    },
+    {
+      "start_time": 159,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Sponsor break]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Producer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d3aa0a68-bff0-4374-b2a2-f1acf9c201a9"
+    },
+    {
+      "start_time": 193,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jad, Robert. Radiolab. Okay, so where we left it is that the trolley problem is about to get real. Here's how Josh Greene put it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "039243bb-00c2-48f9-9c56-fbd566f36eda"
+    },
+    {
+      "start_time": 198,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, now as we're entering the age of self-driving cars, ah, this is like the trolley problem now finally come to life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "15d002b2-93ea-4dfd-a87c-f42ec643a24e"
+    },
+    {
+      "start_time": 206,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, there's cars coming! Oh! The future of the automobile is here. Oh, there's cars! Ah! Autonomous vehicles. It's here. The first self-driving Volvo will be offered to customers in 2021. Ah! Ah! Oh, where's it going? This legislation is the first of its kind, focused on the car of the future that is more of a supercomputer on wheels. Oh! Oh, there's a car coming!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ce1b3b1b-f2ce-4e7f-be9c-5580ced4c44e"
+    },
+    {
+      "start_time": 233,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so self-driving cars, unless you've been living under a muffler, they are coming. It's gonna be a little bit of an adjustment for some of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4ddf15bf-8cba-46b5-a092-a776524016b9"
+    },
+    {
+      "start_time": 240,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah! Hit the brakes! Hit the brakes! No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a65bb90e-bcc1-4a99-bf50-47829b4a823b"
+    },
+    {
+      "start_time": 243,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But what Josh meant when he said it's the trolley problem ... is basically this. Imagine this scenario... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9ce248ef-c83e-41f8-aa11-ae59cc1a494f"
+    },
+    {
+      "start_time": 249,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The self-driving car now is headed towards a bunch of pedestrians in the road. The only way to save them is to swerve out of the way, but that will run the car into a concrete wall and it will kill the passenger in the car. What should the car do? Should the car go straight and run over, say, those five people, or should it swerve and—and kill the one person?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "75a5049b-bdda-42c8-9482-4779fc5b3b40"
+    },
+    {
+      "start_time": 269,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That suddenly is a real-world question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ffe61a57-7ed8-497a-8990-0947df0f1452"
+    },
+    {
+      "start_time": 274,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music, cars honking]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "e85c3756-65d5-4800-aced-bf59a71fbb5c"
+    },
+    {
+      "start_time": 278,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you ask people in the abstract ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "2bc0a6dd-1ce7-46ae-a52d-a0f550317958"
+    },
+    {
+      "start_time": 279,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like, what, theoretically, should a car in this situation do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cf4956b8-9ea4-44a5-83ef-f7174ba73ee0"
+    },
+    {
+      "start_time": 283,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're much more likely to say ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5bafee50-9723-41d4-a540-d8afe2aede7e"
+    },
+    {
+      "start_time": 284,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you should sacrifice one for the good of the many."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "60ed3219-c4dc-42b2-968f-54de3289592d"
+    },
+    {
+      "start_time": 287,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They should just try to do the most good or avoid the most harm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1b34b58e-07e6-4623-84a1-866df71428e9"
+    },
+    {
+      "start_time": 291,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So if it's between one driver and five pedestrians ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "41151f9a-3ab1-4240-ba1b-158de7f9c415"
+    },
+    {
+      "start_time": 293,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Logically, it would be the driver."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Man 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "c60f59c9-6d88-44ec-a756-470a54fd0c93"
+    },
+    {
+      "start_time": 294,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kill the driver."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 2",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a9883935-3af0-4828-bb31-70b55171fe75"
+    },
+    {
+      "start_time": 295,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Be selfless."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Man 2",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "01dde4b8-b361-45e9-b309-b4017040bab7"
+    },
+    {
+      "start_time": 296,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it should kill the driver."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Woman 3",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2b21cad4-4a8a-40e8-872e-0ae8f2c73fd2"
+    },
+    {
+      "start_time": 299,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when you ask people, forget the theory ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c5a897eb-1777-4b64-9d73-f64c74d7ec21"
+    },
+    {
+      "start_time": 302,
+      "end_time": 309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you want to drive in a car that would potentially sacrifice you to save the lives of more people in order to minimize the total amount of harm? They say ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "461dfec5-0306-4189-a107-2636a679df5e"
+    },
+    {
+      "start_time": 309,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[People saying 'no' individually]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b229d949-5f7c-47ab-833f-2be548e9d7ec"
+    },
+    {
+      "start_time": 329,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there's your problem: people would sell a car—and an idea of moral reasoning—that they themselves wouldn't buy. And last fall, an exec at Mercedes Benz face-planted right into the middle of this contradiction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "53fdb792-e494-41d3-a55c-c6061504ed95"
+    },
+    {
+      "start_time": 349,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Paris, one of the most beautiful cities in the world. And welcome to the 2016 Paris Motor Show, home to some of the most beautiful cars in the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "bd8fa2a6-9163-4f94-9f6c-495c97222073"
+    },
+    {
+      "start_time": 355,
+      "end_time": 364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, October 2016, the Paris Motor Show. You had something like a million people coming in over the course of a few days. All the major car-makers were there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "406238f4-4db8-4d7b-8740-6b2cc707401e"
+    },
+    {
+      "start_time": 364,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here is Ferrari. You can see the LaFerrari Aperta, and of course the new GTC4Lusso T."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "69759a90-64f7-40d7-b914-3fb02ca37f61"
+    },
+    {
+      "start_time": 371,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everybody was debuting their new cars, and one of the big presenters in this whole affair was this guy ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1bcb40f2-1d25-4de2-8a18-f684d4af34ba"
+    },
+    {
+      "start_time": 376,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the future, you'll have cars where you don't even have to have your hands on the steering wheel anymore, but maybe you watch a movie on the head-up display or maybe you want to do your emails. That's really what we are striving for."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "7388e83a-d6e7-4e13-963b-26e3d49f33bb"
+    },
+    {
+      "start_time": 387,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Christoph von Hugo, a senior safety manager at Mercedes Benz. He was at the show sort of demonstrating a prototype of a car that could sort of self-drive its way through traffic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2e8ba51a-77a7-42d6-8b5b-78d6ad4f7a5a"
+    },
+    {
+      "start_time": 396,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this E-Class today, for example, you've a maximum of comfort and support systems."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Christoph von Hugo",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a8258d05-d071-4d83-8c07-be0bf408b5a3"
+    },
+    {
+      "start_time": 402,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You'll actually look forward to being stuck in traffic jams, won't you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "de763110-8cb2-4d48-8532-85d509ba6ef3"
+    },
+    {
+      "start_time": 405,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course, of course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Christoph von Hugo",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cf5b2967-5c34-479c-9d11-38a4971d7f10"
+    },
+    {
+      "start_time": 407,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He's doing dozens and dozens of interviews through the show, and in one of those interviews—unfortunately, this one we don't have on tape—he was asked, \"What would your driverless car do in a trolley problem-type dilemma, where maybe you have to choose between one or many?\" And he answered, quote ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "09474eb4-2ca3-40d1-bb4a-ea7441282555"
+    },
+    {
+      "start_time": 423,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you know you can save one person, at least save that one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Michael Taylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e8e30b01-78d4-4ca8-9d2b-a7c06d69e5df"
+    },
+    {
+      "start_time": 428,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you know you can save one person, save that one person."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b99aaa66-b989-425f-8d63-cadcfa696976"
+    },
+    {
+      "start_time": 429,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Save the one in the car."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Michael Taylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0454c734-f37b-465b-a6b2-fb073b4e6232"
+    },
+    {
+      "start_time": 431,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Michael Taylor, correspondent for Car and Driver magazine. He was the one that Christoph von Hugo said that to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "68d5cd46-d072-4345-b892-450bb33e3ced"
+    },
+    {
+      "start_time": 439,
+      "end_time": 445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you know for sure that one thing, one death can be prevented, then that's your first priority."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Michael Taylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e7f2c042-4939-4fdf-a515-dab0d020be28"
+    },
+    {
+      "start_time": 446,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now when he said this to you ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Amanda Aroncyzk",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Producer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9a0f1899-39bd-4800-be32-496bfa988ba2"
+    },
+    {
+      "start_time": 447,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is producer Amanda Aronczyk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "56595fc4-09b6-4081-96fb-3a82d51c887b"
+    },
+    {
+      "start_time": 450,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... did it seem controversial at all in the moment?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Amanda Aroncyzk",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Producer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "537e5e7a-5811-4d85-8d0e-f48a9977825d"
+    },
+    {
+      "start_time": 452,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the moment, it seemed incredibly logical."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Michael Taylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "856e6d35-8706-447b-8cf2-62a1ce12dcd1"
+    },
+    {
+      "start_time": 455,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, all he's really doing is saying what's on people's minds, which is that ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6d556215-5cc2-46cc-a455-70773aef88a8"
+    },
+    {
+      "start_time": 461,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Man 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "df8da362-8855-4edd-9d3f-f93b73421f65"
+    },
+    {
+      "start_time": 461,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wouldn't buy it, personally."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Michael Taylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "029a15ca-1f64-42f5-b1e5-2716356862cc"
+    },
+    {
+      "start_time": 462,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who's gonna buy a car that chooses somebody else over them? Anyhow, he makes that comment, Michael prints it, and a kerfuffle ensues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8afd0648-c833-4491-b049-8266bd6273ed"
+    },
+    {
+      "start_time": 473,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Save the one in the car.\" That's Christoph von Hugo from Mercedes ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "News Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "67437b58-0fd0-46c0-b38f-66d93478ba42"
+    },
+    {
+      "start_time": 477,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then when you lay out the questions, you sound like a bit of a heel because you want to save yourself as opposed to the pedestrians."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "43194469-5e9f-4c71-b0c7-5fb7dd7639ea"
+    },
+    {
+      "start_time": 483,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doesn't it ring, though, of, like, just privilege, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "5bea028b-05cf-4f6d-a8cf-c5bf9f93e765"
+    },
+    {
+      "start_time": 486,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It does. Yeah, it does."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "1084b2c6-5a28-4d01-8e0b-fc80ec860abb"
+    },
+    {
+      "start_time": 487,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait a second. What would you do? It's you or a pedestrian. And it's just—you know, I don't know anything about this pedestrian. It's just you or a pedestrian, just a regular guy walking down the street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "a2ca70bf-372a-41fe-b6b0-6f68ee51de48"
+    },
+    {
+      "start_time": 496,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, screw everyone who's not in a Mercedes!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "78572400-7d4c-49cb-a3e5-52983ce438da"
+    },
+    {
+      "start_time": 499,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there was this kind of uproar about that—how dare you drive these selfish—you know, make these selfish cars? And then he walked it back, and he said, \"No, no, what I mean is that just, that we—that we have a better chance of protecting the people in the car, so we're going to protect them because they're easier to protect.\" But of course, you know, there's always gonna be trade-offs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "27f4c168-84aa-4127-ae32-3ae523db3a55"
+    },
+    {
+      "start_time": 519,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And those trade-offs could get really, really tricky and subtle. Because obviously, these cars have sensors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "f2faffac-0e4f-459b-b649-dfd89c51d890"
+    },
+    {
+      "start_time": 530,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sensors like cameras, radars, laser, and ultrasound sensors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7e3d7536-f4b9-4e8f-879e-8eb6fd04bb20"
+    },
+    {
+      "start_time": 536,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Raj Rajkumar. He's a professor at Carnegie Mellon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "aaaf4798-2db0-45b2-9d21-c4db0db70a0a"
+    },
+    {
+      "start_time": 539,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm the co-director of the GM-CMU Connected and Autonomous Driving Collaborative Research Lab."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Topic"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "c45999e2-8e39-4c1b-a5b2-13729ac2518b"
+    },
+    {
+      "start_time": 544,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is one of the guys that is writing the code that will go inside GM's driverless car. He says yeah, the sensors at the moment on these cars ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "23a041d4-6205-4264-8184-cacc8e0d96c7"
+    },
+    {
+      "start_time": 553,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still evolving."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "13e73e77-cf88-4cbe-b37a-fab405b6bba7"
+    },
+    {
+      "start_time": 554,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... pretty basic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e0148382-45b5-465f-83b9-cf2f67d15acb"
+    },
+    {
+      "start_time": 554,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are very happy if today it can actually detect a pedestrian, can detect a bicyclist, a motorcyclist. Different makers have different shapes, sizes and colors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2c0919b1-e2b7-4bd2-b1b2-afab84372e95"
+    },
+    {
+      "start_time": 563,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he says, it won't be long before ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "98f73319-74db-4842-be89-44b8e42c118b"
+    },
+    {
+      "start_time": 565,
+      "end_time": 568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can actually know a lot more about who these people are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6e759ad3-553d-4ebd-83df-5f036a0713ed"
+    },
+    {
+      "start_time": 568,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eventually they will be able to detect people of different sizes, shapes, and colors. Like, \"Oh, that's a skinny person, that's a small person, tall person, Black person, white person. That's a little boy, that's a little girl.\" So forget the basic moral math. Like, what does a car do if it has to decide oh, do I save this boy or this girl? What about two girls versus one boy and an adult? How about a cat versus a dog? A 75-year-old guy in a suit versus that person over there who might be homeless? You can see where this is going. And it's conceivable that cars will know our medical records, and back at the car show ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fc56509a-9b26-404b-92a6-c14ed1510cd1"
+    },
+    {
+      "start_time": 600,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We've also heard that term, \"car-to-car communication.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        }
+      ],
+      "uuid": "be76586c-33a4-4aa2-abff-37c9f935a5e0"
+    },
+    {
+      "start_time": 602,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's also one of the enabling technologies in highly-automated driving."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Christoph von Hugo",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7e54d1c9-79aa-4665-9a33-d81fab6a8aca"
+    },
+    {
+      "start_time": 606,
+      "end_time": 630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mercedes guy basically said in a couple of years, the cars will be networked. They'll be talking to each other. So just imagine a scenario where, like, cars are about to get into accidents, and right at the decision point, they're, like, conferring. \"Well, who do you have in your car?\" \"Me, I got a 70-year-old Wall Street guy, makes eight figures. How about you?\" \"Well, I'm a bus full of kids. Kids have more years left. You need to move.\" \"Well, hold up. I see that your kids come from a poor neighborhood and have asthma, so I don't know.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "03bd9f27-7439-48b2-a2e6-f0de47c9ddbc"
+    },
+    {
+      "start_time": 630,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you can basically tie yourself up in knots, wrap yourself around an axle. We do not think that any programmer should be given this major burden of deciding who survives and who gets killed. I think these are very fundamental, deep issues that society has to decide at large. I don't think a programmer eating pizza and sipping Coke should be making the call."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d52d7a4f-8741-488a-9882-8c6314a93600"
+    },
+    {
+      "start_time": 655,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs] How does society decide? I mean, help me imagine that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "17f81708-ad35-4d94-84e7-951117dbee17"
+    },
+    {
+      "start_time": 660,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it really has to be an evolutionary process, I believe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Situation"
+        }
+      ],
+      "uuid": "85632821-d94f-44c0-bb98-8d8815d0e056"
+    },
+    {
+      "start_time": 663,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Raj told us that two things basically need to happen. First, we need to get these robocars on the road, get more experience with how they interact with us human drivers and how we interact with them. And two, there need to be, like, industry-wide summits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bdb2b578-3948-4bf4-a2d3-b977a4fa21b5"
+    },
+    {
+      "start_time": 676,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No one company is going to solve that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Bill Ford Jr.",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4fa6479e-7b57-4ae5-bc99-b9fdd3815856"
+    },
+    {
+      "start_time": 677,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Bill Ford Jr. of the Ford company giving a speech in October of 2016 at the Economic Club of DC."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cad549db-f729-4d65-b908-3238e822e173"
+    },
+    {
+      "start_time": 685,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we have to have—because could you imagine if we had one algorithm and Toyota had another and General Motors had another? I mean, it would be—I mean, obviously you couldn't do that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Bill Ford Jr.",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8562ab43-e7af-4153-8cfc-30b0839ad269"
+    },
+    {
+      "start_time": 694,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because, like, what if the Tibetan cars make one decision and the American cars make another?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c41877de-8975-4293-a7d4-1940f07c79fa"
+    },
+    {
+      "start_time": 698,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we need to have a national discussion on ethics, I think, because we've never had to think of these things before, but the cars will have the time and the ability to do that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Bill Ford Jr.",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "53631be1-dd66-458b-bfbe-cf5c828558ce"
+    }
+  ],
   "set": "Default",
   "event_id": "cafc0f70-0144-497c-b5d0-a21b0638a023",
   "source_id": "9a552ce1-d4d0-477e-8250-094f75514d3e"
