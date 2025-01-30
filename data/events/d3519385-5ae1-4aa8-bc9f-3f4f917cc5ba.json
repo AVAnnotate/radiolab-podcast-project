@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c083630b-9056-4821-9f34-bb7562ca5bb1": {
+      "label": "driverless 1",
+      "is_offline": false,
+      "file_url": "https://ia600805.us.archive.org/33/items/driverless_1/driverless_1.mp3",
+      "duration": 760
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Radiolab Driverless Dilemma Part 1",
+  "created_at": "2025-01-30T22:47:54.075Z",
+  "created_by": "trentwintermeier",
+  "updated_at": "2025-01-30T22:47:54.075Z",
+  "updated_by": "trentwintermeier"
+}
